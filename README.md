@@ -1,5 +1,5 @@
-VeX TEECA Competition Repo 2019
-================================
+VeX TEECA Competition Repository 2019/2020
+==========================================
 
 ## Description
 This software is written for the TEECA VeX robotics competition for Millersville University.
@@ -23,5 +23,6 @@ Unless you are on the Millersvill University TEECA Robotics Team, your merge req
 
 ## Important Links
 [TEECA East Robotics](https://teecaeast.org/events/robotics-challenge/)
+
 [VeX Competition](https://www.vexrobotics.com/vexedr/competition/vrc-current-game)
 
